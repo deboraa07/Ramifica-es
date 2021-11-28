@@ -1,0 +1,25 @@
+header {
+    color:black;
+    font-family:Courier;
+    font-weight: bold;
+}
+
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+ 
+.paragrafo1 {
+    color:red;
+}
+
+.paragrafo2 {
+    color:blue;
+}
+
+.paragrafo3 {
+    color:orange;
+}
+
+.paragrafo4 {
+    color:green;
+}
